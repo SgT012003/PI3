@@ -13,8 +13,8 @@ int adc_value = 0;
 
 #include <WiFi.h>
 
-const char* ssid     = "G1S3";
-const char* password = "12345687";
+const char* ssid     = "nome_da_rede";
+const char* password = "senha_da_rede";
 
 WiFiServer server(80);
 
